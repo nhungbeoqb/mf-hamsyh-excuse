@@ -14,8 +14,9 @@ completely dead) landing on "You're welcome."
 import os
 
 ENTRY = (
-    "I scaled production to zero to save you money \u2014 the uptime "
-    "graph is flat, peaceful, and completely dead now. You're welcome."
+    "I scaled production to zero at 3 a.m. to cut your cloud bill "
+    "\u2014 the uptime graph is flat, peaceful, and completely dead "
+    "now. You're welcome."
 )
 
 
